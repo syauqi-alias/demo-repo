@@ -1,3 +1,3 @@
-# Demo 
+# Demo !
 
 For me to learn git
